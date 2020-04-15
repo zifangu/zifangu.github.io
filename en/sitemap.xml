@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://zifangu.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://zifangu.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zifangu.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zifangu.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +27,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zifangu.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zifangu.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://zifangu.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zifangu.github.io/"
                 />
   </url>
   

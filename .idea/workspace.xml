@@ -67,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="320" column="12" lean-forward="true" selection-start-line="320" selection-start-column="12" selection-end-line="320" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="317" column="6" lean-forward="true" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -114,8 +114,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="y" value="51" />
+    <option name="x" value="33" />
+    <option name="y" value="23" />
     <option name="width" value="1081" />
     <option name="height" value="767" />
   </component>
@@ -347,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586908723001</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="updates">
+      <created>1586910390652</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1586910390652</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="51" width="1081" height="767" extended-state="0" />
+    <frame x="-148" y="23" width="1081" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925926" visible="true" weight="0.25" />
@@ -436,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="320" column="12" lean-forward="true" selection-start-line="320" selection-start-column="12" selection-end-line="320" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="317" column="6" lean-forward="true" selection-start-line="317" selection-start-column="6" selection-end-line="317" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
