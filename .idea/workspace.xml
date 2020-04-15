@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
+    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fr/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +32,7 @@
           <entry key="gif" value="1" />
           <entry key="html" value="2" />
           <entry key="jpg" value="5" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="png" value="4" />
           <entry key="xml" value="4" />
         </counts>
@@ -42,7 +42,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -65,11 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="312" column="80" lean-forward="true" selection-start-line="312" selection-start-column="80" selection-end-line="312" selection-end-column="80" />
+            <state relative-caret-position="274">
+              <caret line="412" column="14" lean-forward="true" selection-start-line="412" selection-start-column="14" selection-end-line="412" selection-end-column="14" />
               <folding>
                 <element signature="e#3081#3088#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -83,15 +83,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/homepage/signature.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="98" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
+            <state relative-caret-position="135">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -100,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/css/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="11252" selection-start-column="11252" selection-end-column="11252" />
+              <caret column="11288" selection-start-column="11288" selection-end-column="11288" />
             </state>
           </provider>
         </entry>
@@ -114,9 +124,10 @@
       <find>slider</find>
       <find>fluid</find>
       <find>exchange</find>
-      <find>signature</find>
       <find>ranoke</find>
       <find>.about-me-im</find>
+      <find>href</find>
+      <find>signature</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -146,6 +157,11 @@
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -371,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586911291617</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="updates">
+      <created>1586912601066</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1586912601067</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,24 +467,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="98" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="11252" selection-start-column="11252" selection-end-column="11252" />
+          <caret column="11288" selection-start-column="11288" selection-end-column="11288" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="312" column="80" lean-forward="true" selection-start-line="312" selection-start-column="80" selection-end-line="312" selection-end-column="80" />
+        <state relative-caret-position="274">
+          <caret line="412" column="14" lean-forward="true" selection-start-line="412" selection-start-column="14" selection-end-line="412" selection-end-column="14" />
           <folding>
             <element signature="e#3081#3088#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -470,6 +486,13 @@
             <element signature="e#10759#10765#0" expanded="true" />
             <element signature="n#style#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
