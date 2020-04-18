@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="" />
+    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="536" column="22" lean-forward="true" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
+            <state relative-caret-position="271">
+              <caret line="543" column="24" selection-start-line="543" selection-start-column="24" selection-end-line="543" selection-end-column="24" />
               <folding>
                 <element signature="e#3081#3088#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -259,6 +261,12 @@
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="hover" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
               <item name="magnific-popup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -308,20 +316,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00004" summary="updates">
-      <created>1586663235963</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1586663235963</updated>
-    </task>
-    <task id="LOCAL-00005" summary="updates">
-      <created>1586663318934</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1586663318934</updated>
     </task>
     <task id="LOCAL-00006" summary="updates">
       <created>1586663418273</created>
@@ -652,7 +646,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587187940692</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="updates">
+      <created>1587188047385</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1587188047386</updated>
+    </task>
+    <task id="LOCAL-00054" summary="updates">
+      <created>1587188272495</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1587188272495</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -805,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="536" column="22" lean-forward="true" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
+        <state relative-caret-position="271">
+          <caret line="543" column="24" selection-start-line="543" selection-start-column="24" selection-end-line="543" selection-end-column="24" />
           <folding>
             <element signature="e#3081#3088#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
