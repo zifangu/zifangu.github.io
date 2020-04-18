@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="524" column="12" lean-forward="true" selection-start-line="524" selection-start-column="12" selection-end-line="524" selection-end-column="12" />
+            <state relative-caret-position="226">
+              <caret line="527" column="10" lean-forward="true" selection-start-line="527" selection-start-column="10" selection-end-line="527" selection-end-column="10" />
               <folding>
                 <element signature="e#3081#3088#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -92,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="112" lean-forward="true" selection-start-line="3" selection-start-column="112" selection-end-line="3" selection-end-column="112" />
+            <state relative-caret-position="120">
+              <caret line="8" column="351" lean-forward="true" selection-start-line="8" selection-start-column="351" selection-end-line="8" selection-end-column="351" />
             </state>
           </provider>
         </entry>
@@ -153,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="12151" selection-start-line="3" selection-start-column="12151" selection-end-line="3" selection-end-column="12151" />
+              <caret line="3" column="10105" selection-start-line="3" selection-start-column="10099" selection-end-line="3" selection-end-column="10105" />
             </state>
           </provider>
         </entry>
@@ -193,6 +194,8 @@
       <find>magnifi</find>
       <find>please</find>
       <find>item-holder</find>
+      <find>midcli</find>
+      <find>inline</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -201,8 +204,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -248,6 +251,12 @@
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -625,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587185699792</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="updates">
+      <created>1587186135253</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1587186135253</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -754,15 +770,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.min.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="351" lean-forward="true" selection-start-line="8" selection-start-column="351" selection-end-line="8" selection-end-column="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="112" lean-forward="true" selection-start-line="3" selection-start-column="112" selection-end-line="3" selection-end-column="112" />
+          <caret line="3" column="10105" selection-start-line="3" selection-start-column="10099" selection-end-line="3" selection-end-column="10105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="524" column="12" lean-forward="true" selection-start-line="524" selection-start-column="12" selection-end-line="524" selection-end-column="12" />
+        <state relative-caret-position="226">
+          <caret line="527" column="10" lean-forward="true" selection-start-line="527" selection-start-column="10" selection-end-line="527" selection-end-column="10" />
           <folding>
             <element signature="e#3081#3088#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -773,13 +796,6 @@
             <element signature="e#11772#11777#0" expanded="true" />
             <element signature="e#14237#14242#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12151" selection-start-line="3" selection-start-column="12151" selection-end-line="3" selection-end-column="12151" />
         </state>
       </provider>
     </entry>
