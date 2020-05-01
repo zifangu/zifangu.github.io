@@ -1144,7 +1144,7 @@ $.magnificPopup.registerModule('image', {
 		cursor: 'mfp-zoom-out-cur',
 		titleSrc: 'title',
 		verticalFit: true,
-		tError: '<a href="%url%">The image</a> CAN be loaded.'
+		tError: 'For more information on <a href="%url%">this project</a>, please click "this project" to be redirected to GitHub.'
 	},
 
 	proto: {
