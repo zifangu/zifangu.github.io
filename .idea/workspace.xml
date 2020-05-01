@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/dfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/dpda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/nfa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/tm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +59,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="41" />
+          <entry key="html" value="42" />
           <entry key="js" value="8" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="41" />
+          <entry key="HTML" value="42" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
@@ -77,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="1126" column="6" lean-forward="true" selection-start-line="1126" selection-start-column="6" selection-end-line="1126" selection-end-column="6" />
+              <caret line="1126" column="6" selection-start-line="1126" selection-start-column="6" selection-end-line="1126" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -85,8 +90,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="545" column="12" lean-forward="true" selection-start-line="545" selection-start-column="12" selection-end-line="545" selection-end-column="12" />
+            <state relative-caret-position="10">
+              <caret line="598" column="18" lean-forward="true" selection-start-line="598" selection-start-column="18" selection-end-line="598" selection-end-column="18" />
               <folding>
                 <element signature="e#3077#3084#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -230,27 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00014" summary="updates">
-      <created>1586745069008</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1586745069008</updated>
-    </task>
-    <task id="LOCAL-00015" summary="updates">
-      <created>1586745289119</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1586745289119</updated>
-    </task>
-    <task id="LOCAL-00016" summary="updates">
-      <created>1586825909358</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1586825909358</updated>
     </task>
     <task id="LOCAL-00017" summary="updates">
       <created>1586825948622</created>
@@ -574,16 +558,37 @@
       <option name="project" value="LOCAL" />
       <updated>1588291244533</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="updates">
+      <created>1588368541789</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1588368541790</updated>
+    </task>
+    <task id="LOCAL-00064" summary="updates">
+      <created>1588368658594</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1588368658594</updated>
+    </task>
+    <task id="LOCAL-00065" summary="updates">
+      <created>1588370369386</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1588370369386</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="41" width="1052" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925926" visible="true" weight="0.257032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974533" visible="true" weight="0.257032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50074077" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50254667" side_tool="true" weight="0.257032" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -717,7 +722,7 @@
     <entry file="file://$PROJECT_DIR$/plugins/magnific-popup/jquery.magnific-popup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="1126" column="6" lean-forward="true" selection-start-line="1126" selection-start-column="6" selection-end-line="1126" selection-end-column="6" />
+          <caret line="1126" column="6" selection-start-line="1126" selection-start-column="6" selection-end-line="1126" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -730,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="545" column="12" lean-forward="true" selection-start-line="545" selection-start-column="12" selection-end-line="545" selection-end-column="12" />
+        <state relative-caret-position="10">
+          <caret line="598" column="18" lean-forward="true" selection-start-line="598" selection-start-column="18" selection-end-line="598" selection-end-column="18" />
           <folding>
             <element signature="e#3077#3084#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
