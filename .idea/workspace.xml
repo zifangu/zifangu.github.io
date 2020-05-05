@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="234" column="4" lean-forward="true" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
+            <state relative-caret-position="202">
+              <caret line="286" column="10" lean-forward="true" selection-start-line="286" selection-start-column="10" selection-end-line="286" selection-end-column="10" />
               <folding>
                 <element signature="e#3077#3084#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -194,8 +194,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="96" />
+    <option name="x" value="64" />
+    <option name="y" value="99" />
     <option name="width" value="1052" />
     <option name="height" value="681" />
   </component>
@@ -272,20 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00037" summary="updates">
-      <created>1587076353502</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1587076353502</updated>
-    </task>
-    <task id="LOCAL-00038" summary="updates">
-      <created>1587076655913</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1587076655913</updated>
     </task>
     <task id="LOCAL-00039" summary="updates">
       <created>1587077314928</created>
@@ -616,11 +602,25 @@
       <option name="project" value="LOCAL" />
       <updated>1588707869218</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="updates">
+      <created>1588708449156</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1588708449156</updated>
+    </task>
+    <task id="LOCAL-00087" summary="updates">
+      <created>1588713475255</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1588713475255</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="102" width="1052" height="681" extended-state="0" />
+    <frame x="64" y="99" width="1052" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974533" visible="true" weight="0.257032" />
@@ -778,8 +778,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="234" column="4" lean-forward="true" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
+        <state relative-caret-position="202">
+          <caret line="286" column="10" lean-forward="true" selection-start-line="286" selection-start-column="10" selection-end-line="286" selection-end-column="10" />
           <folding>
             <element signature="e#3077#3084#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
