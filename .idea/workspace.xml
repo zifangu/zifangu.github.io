@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="" />
+    <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,21 +14,21 @@
     <session id="1116028184">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="439" column="43" lean-forward="true" selection-start-line="439" selection-start-column="43" selection-end-line="439" selection-end-column="43" />
+            <state relative-caret-position="328">
+              <caret line="243" column="14" selection-start-line="243" selection-start-column="14" selection-end-line="243" selection-end-column="14" />
               <folding>
                 <element signature="e#3077#3084#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -204,8 +206,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="48" />
+    <option name="x" value="-24" />
+    <option name="y" value="45" />
     <option name="width" value="1052" />
     <option name="height" value="681" />
   </component>
@@ -230,12 +232,18 @@
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zifangu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="owl-carousel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zifangu.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -278,20 +286,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00050" summary="updates">
-      <created>1587187396821</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1587187396866</updated>
-    </task>
-    <task id="LOCAL-00051" summary="updates">
-      <created>1587187570121</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1587187570121</updated>
     </task>
     <task id="LOCAL-00052" summary="updates">
       <created>1587187940691</created>
@@ -622,11 +616,25 @@
       <option name="project" value="LOCAL" />
       <updated>1589748202881</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="updates">
+      <created>1589749689434</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1589749689435</updated>
+    </task>
+    <task id="LOCAL-00100" summary="updates">
+      <created>1589750296760</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1589750296761</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="48" width="1052" height="681" extended-state="0" />
+    <frame x="230" y="112" width="1052" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974533" visible="true" weight="0.257032" />
@@ -774,7 +782,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="243" column="14" selection-start-line="243" selection-start-column="14" selection-end-line="243" selection-end-column="14" />
+          <folding>
+            <element signature="e#3077#3084#0" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8087#8093#0" expanded="true" />
+            <element signature="e#8094#8100#0" expanded="true" />
+            <element signature="e#8101#8107#0" expanded="true" />
+            <element signature="e#9438#9443#0" expanded="true" />
+            <element signature="e#9815#9821#0" expanded="true" />
+            <element signature="e#9822#9828#0" expanded="true" />
+            <element signature="e#9829#9835#0" expanded="true" />
+            <element signature="e#10426#10431#0" expanded="true" />
+            <element signature="e#11189#11194#0" expanded="true" />
+            <element signature="e#13669#13674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/tm.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/dpda.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/lda.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/adt.png">
@@ -800,37 +835,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/lda.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/tm.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="439" column="43" lean-forward="true" selection-start-line="439" selection-start-column="43" selection-end-line="439" selection-end-column="43" />
-          <folding>
-            <element signature="e#3077#3084#0" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8087#8093#0" expanded="true" />
-            <element signature="e#8094#8100#0" expanded="true" />
-            <element signature="e#8101#8107#0" expanded="true" />
-            <element signature="e#9438#9443#0" expanded="true" />
-            <element signature="e#9815#9821#0" expanded="true" />
-            <element signature="e#9822#9828#0" expanded="true" />
-            <element signature="e#9829#9835#0" expanded="true" />
-            <element signature="e#10426#10431#0" expanded="true" />
-            <element signature="e#11189#11194#0" expanded="true" />
-            <element signature="e#13669#13674#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
