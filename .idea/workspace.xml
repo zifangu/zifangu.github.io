@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="235" selection-start-line="235" selection-end-line="235" />
+            <state relative-caret-position="267">
+              <caret line="239" column="25" lean-forward="true" selection-start-line="239" selection-start-column="25" selection-end-line="239" selection-end-column="25" />
               <folding>
                 <element signature="e#3077#3084#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -94,6 +94,9 @@
                 <element signature="e#9822#9828#0" expanded="true" />
                 <element signature="e#9829#9835#0" expanded="true" />
                 <element signature="e#10426#10431#0" expanded="true" />
+                <element signature="e#11185#11191#0" expanded="true" />
+                <element signature="e#11192#11198#0" expanded="true" />
+                <element signature="e#11199#11205#0" expanded="true" />
                 <element signature="e#11189#11194#0" expanded="true" />
                 <element signature="e#13669#13674#0" expanded="true" />
               </folding>
@@ -291,20 +294,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00053" summary="updates">
-      <created>1587188047385</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1587188047386</updated>
-    </task>
-    <task id="LOCAL-00054" summary="updates">
-      <created>1587188272495</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1587188272495</updated>
     </task>
     <task id="LOCAL-00055" summary="updates">
       <created>1587188470716</created>
@@ -635,7 +624,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589863972091</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="updates">
+      <created>1590286034376</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286034377</updated>
+    </task>
+    <task id="LOCAL-00103" summary="updates">
+      <created>1590286755134</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1590286755135</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -785,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        <state relative-caret-position="267">
+          <caret line="239" column="25" lean-forward="true" selection-start-line="239" selection-start-column="25" selection-end-line="239" selection-end-column="25" />
           <folding>
             <element signature="e#3077#3084#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -798,6 +801,9 @@
             <element signature="e#9822#9828#0" expanded="true" />
             <element signature="e#9829#9835#0" expanded="true" />
             <element signature="e#10426#10431#0" expanded="true" />
+            <element signature="e#11185#11191#0" expanded="true" />
+            <element signature="e#11192#11198#0" expanded="true" />
+            <element signature="e#11199#11205#0" expanded="true" />
             <element signature="e#11189#11194#0" expanded="true" />
             <element signature="e#13669#13674#0" expanded="true" />
           </folding>
