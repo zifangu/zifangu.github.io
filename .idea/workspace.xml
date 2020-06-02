@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5f9811-4027-4e2d-a39d-1f7e4bedf12d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +14,11 @@
     <session id="1116028184">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="3" />
@@ -29,9 +28,10 @@
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,24 +83,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-918">
-              <caret line="233" column="4" lean-forward="true" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding>
                 <element signature="e#3077#3084#0" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#8105#8111#0" expanded="true" />
                 <element signature="e#8112#8118#0" expanded="true" />
                 <element signature="e#8119#8125#0" expanded="true" />
-                <element signature="e#9459#9464#0" expanded="true" />
-                <element signature="e#9836#9842#0" expanded="true" />
-                <element signature="e#9843#9849#0" expanded="true" />
-                <element signature="e#9850#9856#0" expanded="true" />
-                <element signature="e#10447#10452#0" expanded="true" />
-                <element signature="e#11274#11280#0" expanded="true" />
-                <element signature="e#11281#11287#0" expanded="true" />
-                <element signature="e#11288#11294#0" expanded="true" />
-                <element signature="e#12149#12154#0" expanded="true" />
-                <element signature="e#15626#15631#0" expanded="true" />
+                <element signature="e#9463#9468#0" expanded="true" />
+                <element signature="e#9840#9846#0" expanded="true" />
+                <element signature="e#9847#9853#0" expanded="true" />
+                <element signature="e#9854#9860#0" expanded="true" />
+                <element signature="e#10451#10456#0" expanded="true" />
+                <element signature="e#11278#11284#0" expanded="true" />
+                <element signature="e#11285#11291#0" expanded="true" />
+                <element signature="e#11292#11298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,8 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ranoke</find>
-      <find>.about-me-im</find>
       <find>signature</find>
       <find>href</find>
       <find>fav</find>
@@ -140,6 +136,8 @@
       <find>.filtr-item</find>
       <find>portfol</find>
       <find>filtr-item</find>
+      <find>header</find>
+      <find>head</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -241,27 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586661864424</updated>
-    </task>
-    <task id="LOCAL-00059" summary="updates">
-      <created>1587439030218</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1587439030220</updated>
-    </task>
-    <task id="LOCAL-00060" summary="updates">
-      <created>1587439128832</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1587439128833</updated>
-    </task>
-    <task id="LOCAL-00061" summary="updates">
-      <created>1588289177764</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1588289177765</updated>
     </task>
     <task id="LOCAL-00062" summary="updates">
       <created>1588291244533</created>
@@ -585,7 +562,28 @@
       <option name="project" value="LOCAL" />
       <updated>1590551653567</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="updates">
+      <created>1590552996219</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1590552996219</updated>
+    </task>
+    <task id="LOCAL-00109" summary="updates">
+      <created>1590553068370</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1590553068370</updated>
+    </task>
+    <task id="LOCAL-00110" summary="updates">
+      <created>1590553169379</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1590553169380</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -778,24 +776,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-918">
-          <caret line="233" column="4" lean-forward="true" selection-start-line="233" selection-start-column="4" selection-end-line="233" selection-end-column="4" />
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding>
             <element signature="e#3077#3084#0" expanded="true" />
             <element signature="n#style#0;n#div#6;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#8105#8111#0" expanded="true" />
             <element signature="e#8112#8118#0" expanded="true" />
             <element signature="e#8119#8125#0" expanded="true" />
-            <element signature="e#9459#9464#0" expanded="true" />
-            <element signature="e#9836#9842#0" expanded="true" />
-            <element signature="e#9843#9849#0" expanded="true" />
-            <element signature="e#9850#9856#0" expanded="true" />
-            <element signature="e#10447#10452#0" expanded="true" />
-            <element signature="e#11274#11280#0" expanded="true" />
-            <element signature="e#11281#11287#0" expanded="true" />
-            <element signature="e#11288#11294#0" expanded="true" />
-            <element signature="e#12149#12154#0" expanded="true" />
-            <element signature="e#15626#15631#0" expanded="true" />
+            <element signature="e#9463#9468#0" expanded="true" />
+            <element signature="e#9840#9846#0" expanded="true" />
+            <element signature="e#9847#9853#0" expanded="true" />
+            <element signature="e#9854#9860#0" expanded="true" />
+            <element signature="e#10451#10456#0" expanded="true" />
+            <element signature="e#11278#11284#0" expanded="true" />
+            <element signature="e#11285#11291#0" expanded="true" />
+            <element signature="e#11292#11298#0" expanded="true" />
           </folding>
         </state>
       </provider>
