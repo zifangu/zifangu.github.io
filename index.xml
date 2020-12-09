@@ -6,10 +6,6 @@
     <description>Recent content on Zifan Gu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://themes.gohugo.io/somrat/)</copyright>
-    
-	<atom:link href="https://zifangu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://themes.gohugo.io/somrat/)</copyright><atom:link href="https://zifangu.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
